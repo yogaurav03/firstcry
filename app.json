@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FirstCry",
+    "slug": "FirstCry",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FirstCry"
+}
